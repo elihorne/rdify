@@ -1,7 +1,7 @@
 A simple Chrome extension to forward open.spotify links over to [RDIO](http://rdio.com).
 
 #### Installation
-> [Download and Install](http://elihorne.com/rdify/)
+> Running Chrome and have an [Rdio](http://rdio.com) account? [Download and Install](http://elihorne.com/rdify/)
 
 #### Usage
 Visit an open.spotify.com URL for an album or track (playlists are not supported) and get redirected to Rdio.
