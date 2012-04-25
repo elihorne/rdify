@@ -9,7 +9,7 @@ Visit an open.spotify.com URL for an album or track (playlists are not supported
 > **Example:** [http://open.spotify.com/album/...](http://open.spotify.com/album/3hVR63Y2ElBoxmzThy80nG)
 
 #### Uninstalling
-Because this is only a [content script](http://code.google.com/chrome/extensions/content_scripts.html), you won't see the icon anywhere in Chrome's UI. To uninstall, simply visit **chrome://extensions** in the omnibar, hover over **Rdify**, and click the trashcan icon.
+Because this is only a [content script](http://code.google.com/chrome/extensions/content_scripts.html), you won't see the icon anywhere in Chrome's UI. To uninstall, visit **chrome://extensions**, hover over **Rdify**, and click the trashcan icon.
 
 #### About the author
 > [I'm on twitter. You should follow me](http://twitter.com/elihorne).
