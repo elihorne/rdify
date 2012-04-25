@@ -9,7 +9,7 @@ Visit an open.spotify.com URL for an album or track (playlists are not supported
 > [open.spotify.com/album/...](open.spotify.com/album/3hVR63Y2ElBoxmzThy80nG)
 
 #### Uninstalling
-Because this is only a [content script](http://code.google.com/chrome/extensions/content_scripts.html), you won't see the icon anywhere in Chrome's UI. To uninstall, simply visit [chrome://extensions](chrome://extensions) in the omnibar
+Because this is only a [content script](http://code.google.com/chrome/extensions/content_scripts.html), you won't see the icon anywhere in Chrome's UI. To uninstall, simply visit *chrome://extensions* in the omnibar
 
-#### Follow the author
-(I'm on twitter. You should follow me)[http://twitter.com/elihorne]
+#### About the author
+[I'm on twitter. You should follow me](http://twitter.com/elihorne)
