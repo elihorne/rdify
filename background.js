@@ -2,7 +2,7 @@ function rdify() {
 	rdiosearch = 'http://www.rdio.com/search/';
 	url = window.location.href;
 	if(url.indexOf('track') > -1 || url.indexOf('album') > -1) {
-		target = $('a#title').text();
+		target = document.getElementById('title').innerText;
 		window.location.href = rdiosearch + encodeURIComponent(target);
 	}
 }
